@@ -13,5 +13,3 @@ Este repositório contém um projeto em Java que implementa um sistema de gestã
 3. **Integração com Sistema de Rastreamento**:
    - A classe `Rastreador` permite monitorar o desempenho dos veículos em tempo real, registrando eventos de desempenho específicos para cada tipo de veículo.
    - Geração de relatórios de desempenho dos veículos da frota, utilizando classes genéricas para aumentar a flexibilidade e extensibilidade do sistema.
-
-Este projeto é um exemplo prático de como aplicar princípios de orientação a objetos, como herança, interfaces e generics, para desenvolver um sistema modular e extensível de gerenciamento de frota.
