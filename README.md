@@ -1,5 +1,3 @@
-**GestorFrota-Polimorfismo-Java**
-
 Este repositório contém um projeto em Java que implementa um sistema de gestão de frota utilizando conceitos de polimorfismo e programação orientada a objetos. O projeto está dividido em três etapas, cada uma focando no aprofundamento do uso de polimorfismo para resolver problemas reais no gerenciamento de veículos.
 
 ### Funcionalidades:
